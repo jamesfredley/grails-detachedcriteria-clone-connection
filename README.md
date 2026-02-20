@@ -1,6 +1,6 @@
 # Reproducer: DetachedCriteria.clone() does not copy connectionName
 
-**Issue:** (will be linked after creation)
+**Issue:** https://github.com/apache/grails-core/issues/15422
 
 **Grails:** 7.0.7 | **GORM Hibernate:** via grails-data-hibernate5
 
